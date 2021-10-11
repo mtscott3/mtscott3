@@ -19,32 +19,32 @@ GEOGRAPHIC AREA:
 
 INDUSTRY PROFILES:
 
-• Pharmaceutical
-• Biotechnology
-• Manufacturing
-• Technology
-• Health Care
-• Clinical Research
-• Laboratory Equipment
+- Pharmaceutical
+- Biotechnology
+- Manufacturing
+- Technology
+- Health Care
+- Clinical Research
+- Laboratory Equipment
 
 ## PREFERRED FUNCTIONS 👷👷👷
 SOFTWARE DEVELOPER/SOFTWARE ENGINNER 👨‍💻:
 
-• Software Developer
-• Software Enginner
-• Front End Developer
-• Back End Developer
-• Full Stack Developer
+- Software Developer
+- Software Enginner
+- Front End Developer
+- Back End Developer
+- Full Stack Developer
 
 SALES 👔:
 
-• Business Development Representative
-• Business Development Manager
-• Business Development Executive
-• Account Representative
-• Account Manager
-• Account Executive
-• Key Account Manager
+- Business Development Representative
+- Business Development Manager
+- Business Development Executive
+- Account Representative
+- Account Manager
+- Account Executive
+- Key Account Manager
 
 ## CORE COMPETENCIES 🧠🧠🧠
 • Science
