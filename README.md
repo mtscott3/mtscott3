@@ -51,7 +51,9 @@ SALES 👔:
 • Customer Service
 • Technical Skills
 • Computer Science & IT
-• Javascript, Python, & Solidity
+• Javascript
+• Python
+• Solidity
 • Sales
 • Business Administration
 • Training
