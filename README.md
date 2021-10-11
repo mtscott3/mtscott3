@@ -1,6 +1,6 @@
 # TAYLOR SCOTT 👋👋👋
 
-<img src="Images\Skydive.jpg" alt="Skydive" width="auto" height="auto">
+<img src="Images\Skydive.jpg" alt="Skydive" width="100" height="50">
 
 ## POSITIONING STATEMENT 🧬👔💻
 Dedicated Sales Professional with a backround in science, business, software development, and Information Technology utilizing a Master of Business Administration and a Bachelor of Science in Biology. Demonstrated aptitude in software development via multiple programming languages. Proven experience delivering exceptional sales and results for multiple divisions of a global fortune 500 contract development & manufacturing organization (CDMO) in pharmaceuticals and biotechnology.
