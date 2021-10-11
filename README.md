@@ -6,9 +6,9 @@
 Dedicated Sales Professional with a backround in science, business, software development, and Information Technology utilizing a Master of Business Administration and a Bachelor of Science in Biology. Demonstrated aptitude in software development via multiple programming languages. Proven experience delivering exceptional sales and results for multiple divisions of a global fortune 500 contract development & manufacturing organization (CDMO) in pharmaceuticals and biotechnology.
 
 ## PROFESSIONAL OBJECTIVES 💰💰💰
-SOFTWARE DEVELOPER/SOFTWARE ENGINNER 👨‍💻: 
+SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻: 
 - Understand, design, and troubleshoot software for a 
-U.S. or international based company utilizing extensive problem solving capabilities to evaluate software and make improvements. Responsible for designing technical plans, compiling bugs, creating reports, programmming, and technology enginnering.    
+U.S. or international based company utilizing extensive problem solving capabilities to evaluate software and make improvements. Responsible for designing technical plans, compiling bugs, creating reports, programming, and technology engineering.    
 
 SALES ROLE 👔: 
 - Drive or close new business and revenue within a regional or global territory for a U.S. or international based company creating mutual advancement and triumph. Responsible for prospecting, business development, territory management, pipeline growth, and technical sales calls.
@@ -28,10 +28,10 @@ INDUSTRY PROFILES:
 - Laboratory Equipment
 
 ## PREFERRED FUNCTIONS 👷👷👷
-SOFTWARE DEVELOPER/SOFTWARE ENGINNER 👨‍💻:
+SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻:
 
 - Software Developer
-- Software Enginner
+- Software Engineer
 - Front End Developer
 - Back End Developer
 - Full Stack Developer
