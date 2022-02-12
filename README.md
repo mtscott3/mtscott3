@@ -3,7 +3,7 @@
 <img src="Images\Skydive.jpg" alt="Skydive" width="600" height="350">
 
 ## POSITIONING STATEMENT 🧬👔💻
-Dedicated professional with a demonstrated aptitude in IT, Tech Support, and Software Development via multiple programming languages. Proven experience in selling B2B Enterprise Software, SaaS, Laboratory Electronics, and Pharmaceuticals with an attested ability to deliver exceptional results exceeding expectations.
+Dedicated professional with a demonstrated aptitude in Software Development, IT, and Technical Support. Experience with multiple programming languages. Proven experience in selling B2B Enterprise Software, SaaS, Laboratory Electronics, and Pharmaceuticals with an attested ability to deliver exceptional results exceeding expectations.
 
 ## PROFESSIONAL OBJECTIVES 💰💰💰
 SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻: 
@@ -23,7 +23,7 @@ INDUSTRY PROFILES:
 - Software Development
 - Health Care
 - Clinical Research
-- Laboratory Electronics & Equipment
+- Laboratory Electronics
 
 ## PREFERRED FUNCTIONS 👷👷👷
 SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻:
@@ -35,16 +35,17 @@ SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻:
 - Full Stack Developer
 
 ## CORE COMPETENCIES 🧠🧠🧠
+o	HTML/CSS
+o	Python
+o	JavaScript
+o	Solidity
 o	Problem Solving
+o	Web Development
 o	Testing & Troubleshooting
 o	Computer Hardware & Software
 o	Windows & Mac
 o	Microsoft Office 365
 o	Agile
-o	HTML/CSS
-o	Python
-o	JavaScript
-o	Solidity
 o	Customer Service
 o	Business Acumen
 o	Sales
