@@ -65,7 +65,7 @@ o	Sales
 • Continuous Learning
 
 ### Links 📫📫📫
-- <a href= "https://www.linkedin.com/in/matthew-taylor-scott-mba-07410b206/">Linkedin</a> 
+- <a href= "https://www.linkedin.com/in/taylor-scott-mba-185616231/">Linkedin</a> 
 - <a href= "https://insidesalestraining.github.io/">Sales Training Website</a>
 
 
