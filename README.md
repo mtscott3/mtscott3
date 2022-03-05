@@ -25,14 +25,6 @@ INDUSTRY PROFILES:
 - Clinical Research
 - Laboratory Electronics
 
-## PREFERRED FUNCTIONS 👷👷👷
-SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻:
-
-- Software Developer
-- Software Engineer
-- Front End Developer
-- Back End Developer
-- Full Stack Developer
 
 ## CORE COMPETENCIES 🧠🧠🧠
 o	HTML/CSS
@@ -65,7 +57,7 @@ o	Sales
 • Continuous Learning
 
 ### Links 📫📫📫
-- <a href= "https://www.linkedin.com/in/taylor-scott-mba-185616231/">Linkedin</a> 
+- <a href= "https://www.linkedin.com/in/taylor-s-185616231/">Linkedin</a> 
 - <a href= "https://insidesalestraining.github.io/">Sales Training Website</a>
 
 
