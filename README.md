@@ -10,6 +10,9 @@ SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻:
 - Understand, design, and troubleshoot software for a 
 U.S. or international based company utilizing extensive problem solving capabilities to evaluate software and make improvements. Responsible for designing technical plans, compiling bugs, creating reports, programming, and technology engineering.    
 
+REMOTE SAAS SALES/SALES ENGINNER:
+- Drive or close new business and revenue within a regional or global territory for a U.S. or international based company creating mutual advancement and triumph. Responsible for prospecting, business development, territory management, pipeline growth, and technical sales calls.
+
 ## TARGET MARKET 🌎🌎🌎
 GEOGRAPHIC AREA: 
 - I enjoy the autonomy of location independence via a fully remote home office. East coast is preferable, but I would consider central, mountain, west coast, or international.
