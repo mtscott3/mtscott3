@@ -3,7 +3,7 @@
 <img src="Images\Skydive.jpg" alt="Skydive" width="600" height="350">
 
 ## POSITIONING STATEMENT 🧬👔💻
-Dedicated professional with a demonstrated aptitude in Software Development, IT, and Technical Support. Experience with multiple programming languages. Proven experience in selling B2B Enterprise Software, SaaS, Laboratory Electronics, and Pharmaceuticals with an attested ability to deliver exceptional results exceeding expectations.
+Sales professional with a demonstrated aptitude in Software Development, IT, and Technical Support. Experience with multiple programming languages. Proven experience in selling B2B Enterprise Software, SaaS, Laboratory Electronics, and Pharmaceuticals with an attested ability to deliver exceptional results exceeding expectations.
 
 ## PROFESSIONAL OBJECTIVES 💰💰💰
 SOFTWARE DEVELOPER/SOFTWARE ENGINEER 👨‍💻: 
@@ -60,7 +60,7 @@ o	Sales
 • Continuous Learning
 
 ### Links 📫📫📫
-- <a href= "https://www.linkedin.com/in/taylor-s-185616231/">Linkedin</a> 
+- <a href= "https://www.linkedin.com/in/taylor-s-185616231/](https://www.linkedin.com/in/matthew-s-07410b206/">Linkedin</a> 
 - <a href= "https://insidesalestraining.github.io/">Sales Training Website</a>
 
 
