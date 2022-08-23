@@ -60,7 +60,7 @@ o	Sales
 • Continuous Learning
 
 ### Links 📫📫📫
-- <a href= "https://www.linkedin.com/in/matthew-s-07410b206/">Linkedin</a>
+
 - <a href= "https://insidesalestraining.github.io/">Sales Training Website</a>
 
 
